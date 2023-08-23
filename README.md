@@ -4,6 +4,8 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me: phamthanh28112000@gmail.com
 
+  ![](https://komarev.com/ghpvc/?username=your-github-username&color=orange)
+
 <!---
 thanh2811/thanh2811 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
